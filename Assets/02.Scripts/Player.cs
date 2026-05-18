@@ -3,7 +3,7 @@ using UnityEngine.InputSystem;
 
 public class Player : MonoBehaviour
 {
-    Vector2 inputVec;
+    public Vector2 inputVec;
     float speed = 3;
     Rigidbody2D rigid;
     SpriteRenderer sprite;
