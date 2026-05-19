@@ -7,6 +7,8 @@ TagManager:
   - GROUND
   - AREA
   - ENEMY
+  - BULLET
+  - NOTE
   layers:
   - Default
   - TransparentFX
@@ -14,7 +16,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - ENEMY
   - 
   - 
   - 
